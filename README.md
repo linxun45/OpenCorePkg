@@ -64,3 +64,6 @@ details.
 - [savvamitrofanov](https://github.com/savvamitrofanov)
 - [usr-sse2](https://github.com/usr-sse2)
 - [vit9696](https://github.com/vit9696)
+
+#### Releases
+https://github.com/acidanthera/OpenCorePkg/releases
